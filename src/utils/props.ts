@@ -1,0 +1,1 @@
+export const props = <P extends object>() => ({} as P)
